@@ -1,0 +1,49 @@
+[
+  {
+    "uri": "cypress\\e2e\\features\\login.feature",
+    "elements": [
+      {
+        "keyword": "Scenario",
+        "name": "Login page Success Login",
+        "description": "",
+        "line": 0,
+        "type": "scenario",
+        "steps": [],
+        "tags": []
+      },
+      {
+        "keyword": "Scenario",
+        "name": "Login page Blocked Login",
+        "description": "",
+        "line": 0,
+        "type": "scenario",
+        "steps": [],
+        "tags": []
+      },
+      {
+        "keyword": "Scenario",
+        "name": "Login page Incorrect Username Login",
+        "description": "",
+        "line": 0,
+        "type": "scenario",
+        "steps": [],
+        "tags": []
+      },
+      {
+        "keyword": "Scenario",
+        "name": "Login page Incorrect Password Login",
+        "description": "",
+        "line": 0,
+        "type": "scenario",
+        "steps": [],
+        "tags": []
+      }
+    ],
+    "id": "login",
+    "keyword": "Feature",
+    "name": "login",
+    "description": "",
+    "line": 1,
+    "tags": []
+  }
+]

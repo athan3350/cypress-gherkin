@@ -1,0 +1,31 @@
+[
+  {
+    "uri": "cypress\\e2e\\features\\tags.feature",
+    "elements": [
+      {
+        "keyword": "Scenario",
+        "name": "Login page with Tags Success Login",
+        "description": "",
+        "line": 0,
+        "type": "scenario",
+        "steps": [],
+        "tags": []
+      },
+      {
+        "keyword": "Scenario",
+        "name": "Login page with Tags Blocked Login",
+        "description": "",
+        "line": 0,
+        "type": "scenario",
+        "steps": [],
+        "tags": []
+      }
+    ],
+    "id": "tags",
+    "keyword": "Feature",
+    "name": "tags",
+    "description": "",
+    "line": 1,
+    "tags": []
+  }
+]
